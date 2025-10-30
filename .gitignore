@@ -1,0 +1,25 @@
+# API keys and sensitive data
+.env
+*.key
+*.pem
+secrets.py
+
+# Database files 
+*.db
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
